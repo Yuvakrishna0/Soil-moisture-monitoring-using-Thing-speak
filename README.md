@@ -249,6 +249,7 @@ Automatically act on your data and communicate using third-party services like T
 
 # OUTPUT:
 ## OUTPUT1:
+![OUT1](https://github.com/Yuvakrishna0/Soil-moisture-monitoring-using-Thing-speak/assets/117915037/e6d3c333-3b99-40a4-a14a-aabbfd515329)
 
 ## OUTPUT2:
 ![OUT2](https://github.com/Yuvakrishna0/Soil-moisture-monitoring-using-Thing-speak/assets/117915037/bfce47a5-7e8b-459f-9ca8-10008ba64b58)
